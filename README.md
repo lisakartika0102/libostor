@@ -1,2 +1,2 @@
 # libostor
-contoh
+contoh edit
